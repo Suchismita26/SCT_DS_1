@@ -19,3 +19,5 @@ World Bank Population Dataset
 - Filtered the data for the year 2022.
 - Identified the top 10 most populated countries.
 - Visualized the results using a bar chart.
+### Repository
+This repository contains the solution for SkillCraft Technology Data Science Internship - Task 01.
